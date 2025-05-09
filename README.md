@@ -6,7 +6,7 @@ This guide explains how to configure **IntelBluetoothFirmware v2.5.0** for macOS
 
 ## 1️⃣ Install Kexts into EFI
 
-Copy the following **3 kexts** into the `EFI/OC/Kexts` folder and **snap** them into your `config.plist` using OpenCore Configurator or ProperTree:
+Copy the following **3 kexts** into the `EFI/OC/Kexts` folder and **snap** them into your `config.plist` using OpenCore Configurator, OCAuxiliaryTools or ProperTree:
 
 - `IntelBluetoothFirmware.kext`
 - `IntelBTPatcher.kext`
