@@ -45,7 +45,7 @@ Delete the following keys if they exist:
 
 ## 📌 Notes
 
-- After editing `config.plist`, make sure to **Reset NVRAM** from the boot picker (`Option` key -> select Reset NVRAM).
+- After editing `config.plist`, make sure to **Reset NVRAM** from the boot picker
 - This setup is **specifically for macOS Sequoia (15.x)**. For earlier macOS versions (Ventura, Sonoma), use compatible kexts accordingly.
 
 ---
