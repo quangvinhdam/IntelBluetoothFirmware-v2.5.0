@@ -12,7 +12,7 @@ Copy the following **3 kexts** into the `EFI/OC/Kexts` folder and **snap** them 
 - `IntelBTPatcher.kext`
 - `BlueToolFixup.kext`
 
-![](.images/1.png)
+![](images/1.png)
 
 
 ---
@@ -26,7 +26,7 @@ Go to `NVRAM -> Add` and insert the following keys under this UUID: 7C436110-AB2
 | `bluetoothExternalDongleFailed`   | Data | `00`                                   |
 | `bluetoothInternalControllerInfo` | Data | `0000000000000000000000000000`         |
 
-> 📷 *See illustration image 2*
+![](images/2.png)
 
 ---
 
@@ -39,7 +39,7 @@ Delete the following keys if they exist:
 - `bluetoothExternalDongleFailed`
 - `bluetoothInternalControllerInfo`
 
-> 📷 *See illustration image 3*
+![](images/3.png)
 
 ---
 
